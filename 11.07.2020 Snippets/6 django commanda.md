@@ -73,9 +73,9 @@ def home(request):
     return render(request,'home.html')
 ```
 
-1. Go to urls.py file in proj1 folder
-2. import home function in the urls.py file
-3. 
+3. Go to urls.py file in proj1 folder
+4. import home function in the urls.py file
+
 ```python
 from web.views import home
 ```
