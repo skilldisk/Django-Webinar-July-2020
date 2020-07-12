@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <title>Skill Disk : Django Webinar</title>
+</head>
+<body>
+    <div class="container">
+        <h1 class="amber-text center">Skill Disk</h1>
+        <h3 class="purple-text">Products</h3>
+        <table>
+            <thead>
+              <tr>
+                  <th>Item Name</th>
+                  <th>Cost</th>
+                  <th>Availability</th>
+              </tr>
+            </thead>
+    
+            <tbody>
+                {% for product in products %}
+              <tr>
+                <td>{{product.name}}</td>
+                <td>{{product.price}}</td>
+                <td>{{product.available}}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+
+        <p class="center">Check out our website <a href="http://skilldisk.com">skill disk</a></p>
+    </div>
+</body>
+</html>

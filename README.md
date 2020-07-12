@@ -1,4 +1,6 @@
 # Django-Webinar-July-2020
+
+![Django : Python web framework](/assests/banner.png)
 Download and use the snippets to work along with us in the webinar on Django : Python web framework
 
 Join Our Two Day Free Webinar On "Django : Python web framework"
@@ -20,5 +22,11 @@ So, connect with us for making this event more useful and valuable.
 👉Book Your Seats Now: http://skilldisk.com/contact/enroll/
 Stay Home. Stay Safe. Learn Online & Get Certified
 
-   
-Visit: www.silldisk.com
+visit : [www.silldisk.com](http://skilldisk.com)
+
+#### Connect with us :
+[Facebook](https://www.facebook.com/skilldisk)
+[Twitter](https://twitter.com/skilldisk)
+[Codepen](https://codepen.io/skilldisk)
+[Telegram](https://t.me/skilldisk/)
+[Pinterest](https://in.pinterest.com/skilldisk/)
